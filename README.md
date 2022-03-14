@@ -1,10 +1,14 @@
-# Tribue Page
+# Tribute Page
 
-This is a review of the Microvers trials project of Creating a Tribute Page.
+> This is a review of the Microvers trials project of Creating a Tribute Page.
+>It will help us:
+>- Master github flow
+>- Practice using linters for checking errors in our css and Html files.
+>- Practice using semantic HTML and CSS for the best pratices
+>- Practice giving a code review
 
-Below you can see how this website should look
 
-![screenshot](./restaurant.gif)
+![screenshot](./Screenshot.gif)
 
 ## Setup
 
@@ -43,9 +47,8 @@ Feel free to check the [issues page](https://github.com/Sahar-AbdelSamad/Tribute
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- FreeCodeCamp
+- Microverse
 
 ## 📝 License
 
