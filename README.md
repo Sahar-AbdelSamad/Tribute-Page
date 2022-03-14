@@ -34,9 +34,9 @@ $ open index.html
 
 👤 **Sahar Abdel Samad**
 
-- GitHub: [@saharabdelsamad](https://github.com/Sahar-AbdelSamad)
-- Twitter: [@abdelsamadsahar](https://twitter.com/home)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sahar-abdel-samad/)
+- GitHub: [@sahar-abdelsamad](https://github.com/Sahar-AbdelSamad)
+- Twitter: [@abdelsamadsahar](https://twitter.com/AbdelSamadSahar)
+- LinkedIn: [sahar-abdel-samad](https://www.linkedin.com/in/sahar-abdel-samad/)
 
 
 ## 🤝 Contributing
