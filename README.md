@@ -18,10 +18,7 @@
 $ git clone git@github.com:Sahar-AbdelSamad/Tribute-Page.git
 $ cd Tribute-Page
 ```
-
-### Open page in browser
-```bash
-$ open index.html
+### Run the live server or open index.html with your browser
 ```
 
 
