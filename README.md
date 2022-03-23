@@ -12,15 +12,13 @@
 
 ## Setup
 
-### Clone this repository
+1. Clone this repository
 
 ```bash
 $ git clone git@github.com:Sahar-AbdelSamad/Tribute-Page.git
 $ cd Tribute-Page
 ```
-### Run the live server or open index.html with your browser
-```
-
+2. Run the live server or open index.html with your browser
 
 ## Built With
 
